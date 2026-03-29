@@ -23,5 +23,9 @@ This repository contains a collection of Artificial Intelligence and Machine Lea
 - Deep Learning Project (Neural Networks)
 - Time Series Project (Forecasting)
 
+- ![Dashboard](computervision.jpeg)
+- ![Dashboard](deeplearning.jpeg)
+- ![Dashboard](timeseries.jpeg)
+
 # Objective
 To build practical AI/ML solutions and gain hands-on experience in different domains.
